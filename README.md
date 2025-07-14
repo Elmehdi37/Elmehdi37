@@ -1,14 +1,40 @@
-<h1 align="center">سلام عليكم، أنا Mehdi Berrada 🇲🇦</h1>
-
-<p align="center">
-  💻 مطور Laravel و React JS<br/>
-  🎓 طالب من المغرب<br/>
-  🌱 أشتغل على مشاريع مفتوحة المصدر كهواية وتطوير ذاتي<br/>
-</p>
+<h1 align="center">👋 Hi, I'm Mehdi Berrada</h1>
+<p align="center">🇲🇦 Laravel & React JS Developer from Morocco | Student</p>
 
 ---
 
-## ⚙️ المهارات التقنية
+## 🌐 Multilingual Profile
+
+| 🌍 | 🇬🇧 English | 🇫🇷 Français | 🇪🇸 Español |
+|----|------------|-------------|------------|
+
+---
+
+## 🇬🇧 About Me
+
+I'm a passionate **Fullstack Developer** focused on **Laravel** and **React JS**.  
+Currently a **student**, learning and building projects to sharpen my skills.  
+I love clean code, UI/UX, and building responsive web apps.
+
+---
+
+## 🇫🇷 À propos de moi
+
+Je suis un **développeur Fullstack** passionné, spécialisé en **Laravel** et **React JS**.  
+Actuellement **étudiant**, j'apprends et je construis des projets pour améliorer mes compétences.  
+J'adore le code propre, le design soigné, et le développement web responsive.
+
+---
+
+## 🇪🇸 Sobre mí
+
+Soy un **desarrollador Fullstack** apasionado, especializado en **Laravel** y **React JS**.  
+Actualmente soy **estudiante**, aprendiendo y construyendo proyectos para mejorar mis habilidades.  
+Me encanta el código limpio, el diseño atractivo y las aplicaciones web responsivas.
+
+---
+
+## 🛠️ Skills / Compétences / Habilidades
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -20,7 +46,7 @@
 
 ---
 
-## 📈 إحصائيات GitHub
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BerradaMehdi&show_icons=true&theme=radical&count_private=true" alt="Stats" />
@@ -32,14 +58,18 @@
 
 ---
 
-## 📫 تواصل معي
+## 📫 Contact / Contactez-moi / Contáctame
 
-يمكنك التواصل معي عبر المنصات التالية (ضيف الروابط فالأماكن المحددة 👇):
+| Platform | Link |
+|---------|------|
+| 📧 Email | [you@example.com] |
+| 💼 LinkedIn | [linkedin.com/in/your-profile] |
+| 🌐 Website | [yourwebsite.com] |
 
-- 📧 البريد الإلكتروني: berradamehdi1999@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/mehdiberrada37/
+> 📌 *Replace the contact links above with your actual accounts.*
 
 ---
 
-> ⭐ إذا عجبك شي مشروع ديالي، ما تنساش دير 🌟 و تابِعني!
-
+⭐ _If you like my projects, feel free to follow me and give a star!_  
+⭐ _Si vous aimez mes projets, n'hésitez pas à me suivre et à mettre une étoile !_  
+⭐ _Si te gustan mis proyectos, no dudes en seguirme y darme una estrella._
