@@ -49,11 +49,11 @@ Me encanta el código limpio, las aplicaciones web responsivas.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BerradaMehdi&show_icons=true&theme=radical&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Elmehdi37&show_icons=true&theme=radical&count_private=true" alt="Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BerradaMehdi&theme=radical" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elmehdi37&theme=radical" alt="Streak" />
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=BerradaMehdi&label=Profile%20views&color=blueviolet&style=flat" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=Elmehdi37&label=Profile%20views&color=blueviolet&style=flat" alt="visitors" />
 </p>
 
 ---
