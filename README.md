@@ -14,7 +14,7 @@
 
 I'm a passionate **Fullstack Developer** focused on **Laravel** and **React JS**.  
 Currently a **student**, learning and building projects to sharpen my skills.  
-I love clean code, UI/UX, and building responsive web apps.
+I love clean code, and building responsive web apps.
 
 ---
 
@@ -22,7 +22,7 @@ I love clean code, UI/UX, and building responsive web apps.
 
 Je suis un **développeur Fullstack** passionné, spécialisé en **Laravel** et **React JS**.  
 Actuellement **étudiant**, j'apprends et je construis des projets pour améliorer mes compétences.  
-J'adore le code propre, le design soigné, et le développement web responsive.
+J'adore le code propre, et le développement web responsive.
 
 ---
 
@@ -30,7 +30,7 @@ J'adore le code propre, le design soigné, et le développement web responsive.
 
 Soy un **desarrollador Fullstack** apasionado, especializado en **Laravel** y **React JS**.  
 Actualmente soy **estudiante**, aprendiendo y construyendo proyectos para mejorar mis habilidades.  
-Me encanta el código limpio, el diseño atractivo y las aplicaciones web responsivas.
+Me encanta el código limpio, las aplicaciones web responsivas.
 
 ---
 
