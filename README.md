@@ -1,16 +1,16 @@
 <h1 align="center">👋 Hi, I'm Mehdi Berrada</h1>
-<p align="center">🇲🇦 Laravel & React JS Developer from Morocco | Student</p>
+<p align="center">Laravel & React JS Developer from Morocco | Student</p>
 
 ---
 
 ## 🌐 Multilingual Profile
 
-| 🌍 | 🇬🇧 English | 🇫🇷 Français | 🇪🇸 Español |
+| 🌍 | English | Français | Español |
 |----|------------|-------------|------------|
 
 ---
 
-## 🇬🇧 About Me
+## About Me
 
 I'm a passionate **Fullstack Developer** focused on **Laravel** and **React JS**.  
 Currently a **student**, learning and building projects to sharpen my skills.  
@@ -18,7 +18,7 @@ I love clean code, UI/UX, and building responsive web apps.
 
 ---
 
-## 🇫🇷 À propos de moi
+## À propos de moi
 
 Je suis un **développeur Fullstack** passionné, spécialisé en **Laravel** et **React JS**.  
 Actuellement **étudiant**, j'apprends et je construis des projets pour améliorer mes compétences.  
@@ -26,7 +26,7 @@ J'adore le code propre, le design soigné, et le développement web responsive.
 
 ---
 
-## 🇪🇸 Sobre mí
+## Sobre mí
 
 Soy un **desarrollador Fullstack** apasionado, especializado en **Laravel** y **React JS**.  
 Actualmente soy **estudiante**, aprendiendo y construyendo proyectos para mejorar mis habilidades.  
@@ -62,9 +62,9 @@ Me encanta el código limpio, el diseño atractivo y las aplicaciones web respon
 
 | Platform | Link |
 |---------|------|
-| 📧 Email | [you@example.com] |
-| 💼 LinkedIn | [linkedin.com/in/your-profile] |
-| 🌐 Website | [yourwebsite.com] |
+| 📧 Email | [berradamehdi1999@gmail.com] |
+| 💼 LinkedIn | [https://www.linkedin.com/in/mehdiberrada37/] |
+| 🌐 Website | [] |
 
 > 📌 *Replace the contact links above with your actual accounts.*
 
