@@ -34,15 +34,19 @@ Me encanta el código limpio, las aplicaciones web responsivas.
 
 ---
 
-## 🛠️ Skills / Compétences / Habilidades
+## 🧠 Compétences Techniques
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 💻 Langages & Frameworks Web
+
+- HTML / CSS / JavaScript  
+- TypeScript / React.js  
+- PHP / Laravel  
+- Python / Django
+
+### 🗄️ Base de données
+
+- MySQL
+
 
 ---
 
