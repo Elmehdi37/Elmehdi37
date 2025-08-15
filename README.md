@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hi, I'm Mehdi Berrada</h1>
-<p align="center">Full-Stack Developer | Laravel & PHP | Student from Morocco</p>
+<p align="center">Full-Stack Web Developer | Laravel & PHP | Frontend: HTML & CSS | Student from Morocco</p>
 
 ---
 
-## 🧠 Technical Skills
+## 🧰 Technical Skills
 
 ### 💻 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🛠️ Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -18,37 +18,49 @@
 
 ---
 
-## 💻 Projects
+## 💻 Projects Highlights
 
 ### 1️⃣ Mini Blog Platform
-- Full-featured blogging platform with **manual authentication**, posts with images, comments, and categories.  
+- ✅ Full-featured blogging platform with **manual authentication**  
+- 🖼️ Posts with images, comments, and category management  
+- 🔒 Custom middleware for secure access  
 - Tech: Laravel 9, Blade, CSS, MySQL, SoftDeletes  
-- GitHub: [Mini Blog Platform](https://github.com/Elmehdi37/Adventure-Website)
+- 🔗 GitHub: [Mini Blog Platform](https://github.com/Elmehdi37/Adventure-Website)
 
 ### 2️⃣ Task Manager App
-- Users can create, update, delete, and track tasks. Each user sees only their own tasks.  
+- ✅ Users manage only their own tasks  
+- 📝 Full CRUD with **SoftDeletes**  
+- 📊 Task status tracking: Pending / Completed  
 - Tech: Laravel 12, Blade, CSS, MySQL, SoftDeletes  
-- GitHub: [Task Manager App](#)
+- 🔗 GitHub: [Task Manager App](#)
 
-### 3️⃣ Front-End Projects
-- Clean and responsive **HTML + CSS** interfaces using Flexbox and CSS Grid  
-- Example: [Adventure Website](https://github.com/Elmehdi37/Adventure-Website)
+### 3️⃣ Responsive Front-End Projects
+- 🎨 Clean and responsive HTML + CSS interfaces using **Flexbox** & **CSS Grid**  
+- 🔗 Example: [Adventure Website](https://github.com/Elmehdi37/Adventure-Website)
+
+---
+
+## 🌱 Learning Goals
+- Master **React.js** and integrate with Laravel back-end  
+- Advanced **Eloquent ORM relationships** and **query optimization**  
+- Build fully **RESTful APIs** with authentication  
+- Improve **UI/UX design** and accessibility  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elmehdi37&show_icons=true&theme=radical&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Elmehdi37&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elmehdi37&theme=radical" alt="Streak" />
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=Elmehdi37&label=Profile%20views&color=blueviolet&style=flat" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=Elmehdi37&label=Profile%20views&color=blueviolet&style=flat" alt="Visitors" />
 </p>
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
 | Platform | Link |
 |---------|------|
