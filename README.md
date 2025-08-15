@@ -25,23 +25,28 @@
 
 ## 💻 Projects Highlights
 
-### 📝 Mini Blog Platform
-- 🔑 Full-featured blogging platform with **manual authentication**  
-- 🖼️ Posts with images, comments, and category management  
-- 🔒 Custom middleware for secure access  
-- 💻 Tech: Laravel 9, Blade, CSS, MySQL, SoftDeletes  
-- 🔗 GitHub: [Mini Blog Platform](https://github.com/Elmehdi37/Adventure-Website)
-
-### 📋 Task Manager App
-- 👤 Users manage only their own tasks  
-- 📝 Full CRUD with **SoftDeletes**  
-- 📊 Task status tracking: Pending / Completed  
-- 💻 Tech: Laravel 12, Blade, CSS, MySQL, SoftDeletes  
-- 🔗 GitHub: [Task Manager App](#)
-
-### 🎨 Front-End Projects
-- Clean and responsive **HTML + CSS** interfaces using **Flexbox & CSS Grid**  
-- 🔗 Example: [Adventure Website](https://github.com/Elmehdi37/Adventure-Website)
+<table>
+<tr>
+<td align="center">
+  <a href="https://github.com/Elmehdi37/Adventure-Website" target="_blank">
+    <img src="https://raw.githubusercontent.com/Elmehdi37/Adventure-Website/main/preview.png" width="200" alt="Mini Blog Platform"/>
+    <br/>📝 Mini Blog Platform
+  </a>
+</td>
+<td align="center">
+  <a href="#" target="_blank">
+    <img src="https://via.placeholder.com/200x120.png?text=Task+Manager+App" width="200" alt="Task Manager App"/>
+    <br/>📋 Task Manager App
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/Elmehdi37/Adventure-Website" target="_blank">
+    <img src="https://raw.githubusercontent.com/Elmehdi37/Adventure-Website/main/preview.png" width="200" alt="Front-End Projects"/>
+    <br/>🎨 Front-End Projects
+  </a>
+</td>
+</tr>
+</table>
 
 ---
 
