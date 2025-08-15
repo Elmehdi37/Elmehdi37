@@ -16,35 +16,40 @@
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### 🧩 Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-000000?style=for-the-badge&logo=composer&logoColor=white)
+
 ---
 
 ## 💻 Projects Highlights
 
-### 1️⃣ Mini Blog Platform
-- ✅ Full-featured blogging platform with **manual authentication**  
+### 📝 Mini Blog Platform
+- 🔑 Full-featured blogging platform with **manual authentication**  
 - 🖼️ Posts with images, comments, and category management  
 - 🔒 Custom middleware for secure access  
-- Tech: Laravel 9, Blade, CSS, MySQL, SoftDeletes  
+- 💻 Tech: Laravel 9, Blade, CSS, MySQL, SoftDeletes  
 - 🔗 GitHub: [Mini Blog Platform](https://github.com/Elmehdi37/Adventure-Website)
 
-### 2️⃣ Task Manager App
-- ✅ Users manage only their own tasks  
+### 📋 Task Manager App
+- 👤 Users manage only their own tasks  
 - 📝 Full CRUD with **SoftDeletes**  
 - 📊 Task status tracking: Pending / Completed  
-- Tech: Laravel 12, Blade, CSS, MySQL, SoftDeletes  
+- 💻 Tech: Laravel 12, Blade, CSS, MySQL, SoftDeletes  
 - 🔗 GitHub: [Task Manager App](#)
 
-### 3️⃣ Responsive Front-End Projects
-- 🎨 Clean and responsive HTML + CSS interfaces using **Flexbox** & **CSS Grid**  
+### 🎨 Front-End Projects
+- Clean and responsive **HTML + CSS** interfaces using **Flexbox & CSS Grid**  
 - 🔗 Example: [Adventure Website](https://github.com/Elmehdi37/Adventure-Website)
 
 ---
 
 ## 🌱 Learning Goals
 - Master **React.js** and integrate with Laravel back-end  
-- Advanced **Eloquent ORM relationships** and **query optimization**  
+- Advanced **Eloquent ORM relationships** & query optimization  
 - Build fully **RESTful APIs** with authentication  
-- Improve **UI/UX design** and accessibility  
+- Improve **UI/UX design** and accessibility
 
 ---
 
