@@ -45,20 +45,14 @@
 
 ---
 
-## 🌱 Learning Goals
-- Master **React.js** and integrate with Laravel back-end  
-- Advanced **Eloquent ORM relationships** & query optimization  
-- Build fully **RESTful APIs** with authentication  
-- Improve **UI/UX design** and accessibility
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Trophies
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Elmehdi37&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elmehdi37&theme=radical" alt="Streak" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Elmehdi37&theme=radical&column=7" alt="Trophies" />
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Elmehdi37&label=Profile%20views&color=blueviolet&style=flat" alt="Visitors" />
 </p>
